@@ -3638,5 +3638,23 @@
       "userId": 103,
       "name": "Carol"
     }
+  ],
+  "companies":[
+    {
+      "value": "Thanh Cong",
+      "name": "Thanh Cong"
+    },
+    {
+      "value": "Dan Le",
+      "name": "Dan Le"
+    },
+    {
+      "value": "Saigon Coop",
+      "name": "Saigon Coop"
+    },
+    {
+      "value": "Thanh Loi",
+      "name": "Thanh Loi"
+    }
   ]
 }
