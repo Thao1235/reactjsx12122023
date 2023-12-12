@@ -3427,6 +3427,216 @@
       "quantity": 1,
       "id": 101
     }
+  ],
+    "products": [
+      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-jm88lbzx2gkvfa",
+        "title": "Vớ cotton hình chiếc giầy",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "24,000đ",
+        "newPrice": "18,000đ",
+        "company": "Thanh Cong",
+        "color": "Red",
+        "category": "Bé gái 5-10 tuổi",
+        "id": 1
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-2ty0h1bkzgkva8",
+        "title": "Vớ cotton hình thú",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "25,000đ",
+        "newPrice": "22,000đ",
+        "company": "Thanh Cong",
+        "color": "Black",
+        "category": "Boys 5-10 tuổi",
+        "id": 2
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-bfrjdjckzgkvcc",
+        "title": "Vớ cotton hình ông Noel",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "22,000đ",
+        "newPrice": "20,000đ",
+        "company": "Thanh Cong",
+        "color": "Red",
+        "category": "Bé trai-gái 5-10 tuổi",
+        "id": 3
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-8sgitu0jzgkv75",
+        "title": "Vớ cotton hình tuần lộc",
+        "star": 5,
+        "reviews": 123,
+        "prevPrice": "20,000đ",
+        "newPrice": "17,000đ",
+        "company": "Thanh Cong",
+        "color": "White",
+        "category": "Bé trai-gái 5-10 tuổi",
+        "id": 4
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnio50syag6y31",
+        "title": "Vớ cotton que kẹo",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "19,000đ",
+        "newPrice": "17,000đ",
+        "company": "Saigon Coop",
+        "color": "Green",
+        "category": "Bé trai-gái 5-10 tuổi",
+        "id": 5
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lld1ptauas3sf2",
+        "title": "Vớ cotton hoạ tiết",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "22,000đ",
+        "newPrice": "18,000đ",
+        "company": "Saigon Coop",
+        "color": "Pink",
+        "category": "Bé gái 5-10 tuổi",
+        "id": 6
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lld1ptaudl8o6a",
+        "title": "Vớ cotton hoạ tiết",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "20,000đ",
+        "newPrice": "19,000đ",
+        "company": "Saigon Coop",
+        "color": "Red",
+        "category": "Bé gái 5-10 tuổi",
+        "id": 7
+      },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lld1ptaugedkbd",
+        "title": "Vớ cotton hoạ tiết",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "22,000đ",
+        "newPrice": "17,000đ",
+        "company": "Dan Le",
+        "color": "Combo",
+        "category": "Bé trai-gái 5-10 tuổi",
+        "id": 8
+      },
+      {
+        "img": "https://product.hstatic.net/1000011840/product/tat-cho-be-trai-ta24_ad0350c73afe4f6a9ad7cd4f70404ad9_medium.jpg",
+        "title": "Vớ cotton không hoạ tiết",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "18,000đ",
+        "newPrice": "16,000đ",
+        "company": "Dan Le",
+        "color": "Blue",
+        "category": "Bé trai 5-10 tuổi",
+        "id": 9
+      },
+      {
+        "img": " https://product.hstatic.net/1000011840/product/tat-cho-be-ta11-3_527ade0168c54c3a8789409de1a47934_medium.jpg",
+        "title": "Vớ cotton hình mèo",
+        "star": 5,
+        "reviews": 123,
+        "prevPrice": "20,000đ",
+        "newPrice": "12,000đ",
+        "company": "Thanh Loi",
+        "color": "Blue",
+        "category": "Bé dưới 5 tuổi",
+        "id": 10
+      },
+      {
+        "img": " https://product.hstatic.net/1000011840/product/1_220db91b9a3a4abe88ffa31447e7c0ad_medium.jpg",
+        "title": "Vớ cotton trơn",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "15,000đ",
+        "newPrice": "14,000đ",
+        "company": "Thanh Loi",
+        "color": "Combo",
+        "category": "Bé dưới 5 tuổi",
+        "id": 11
+      },
+      {
+        "img": "https://product.hstatic.net/1000011840/product/tat-cho-be-ta11-4_8d4a6ac2dd53480cb506ed433d57c061_medium.jpg",
+        "title": "Unisex-Adult Super",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "15,000đ",
+        "newPrice": "12,000đ",
+        "company": "Thanh Loi",
+        "color": "Black",
+        "category": "Bé dưới 5 tuổi",
+        "id": 12
+      }
+    ],
+    "categories":[
+      {
+        "id": 1,
+        "name": "Bé dưới 5 tuổi"
+      },
+      {
+        "id": 2,
+        "name": "Bé trai 5-10 tuổi"
+      },
+      {
+        "id": 3,
+        "name": "Bé gái 5-10 tuổi"
+      },
+      {
+        "id": 4,
+        "name": "Bé trai-gái 5-10 tuổi"
+      }
+    ],
+    "colors":[
+      {
+        "id": 1,
+        "name": "Black"
+      },
+      {
+        "id": 2,
+        "name": "Blue"
+      },
+      {
+        "id": 3,
+        "name": "Red"
+      },
+      {
+        "id": 4,
+        "name": "Pink"
+      },
+      {
+        "id": 5,
+        "name": "White"
+      },
+    {
+        "id": 6,
+        "name": "Combo"
+    },
+    {
+        "id": 6,
+        "name": "Green"
+    }
+    ],
+  "users": [
+    {
+      "id": 1,
+      "userId": 101,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "name": "Carol"
+    }
   ]
-  
 }
