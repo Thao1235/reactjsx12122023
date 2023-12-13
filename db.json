@@ -3657,9 +3657,9 @@
     {
       "orderId": "c15259d2-0ae6-43cc-b660-079e51dbfbe0",
       "orderInfo": {
-        "subTotal": 50000,
+        "subTotal": 53000,
         "shipping": 0,
-        "total": 50000,
+        "total": 53000,
         "status": "draft",
         "orderDate": 1651382400000
       },
@@ -3718,9 +3718,9 @@
     {
       "orderId": "7f58496a-52d2-445f-8037-4025b32b093d",
       "orderInfo": {
-        "subTotal": 30000,
-        "shipping": 0,
-        "total": 30000,
+        "subTotal": 1210000,
+        "shipping": 25000,
+        "total": 1460000,
         "status": "draft",
         "orderDate": 1651382400000
       },
